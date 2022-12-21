@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+requests = ">=2.28"
+time = ">=3.3"
+smtplib = ">=3.3"
+ssl = ">=3.6"
+json = "*"
+shapely = "*"
+"email.mime.text" = "*"
+email = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
