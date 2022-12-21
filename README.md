@@ -1,4 +1,4 @@
 # How to run this server
-pipenv shell
-pipenv install -r requirements.txt
-python3 main.py
+pipenv shell /n
+pipenv install -r requirements.txt /n
+python3 main.py \n
