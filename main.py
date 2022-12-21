@@ -13,7 +13,7 @@ URL = "https://3qbqr98twd.execute-api.us-west-2.amazonaws.com/test/clinicianstat
 PORT = 587
 HOST = "smtp-mail.outlook.com"
 EMAILER = SMTP(HOST, PORT)
-EMAIL_RECEIVER = "epicwhale53@gmail.com"
+EMAIL_RECEIVER = "sprinter-eng-test@guerrillamail.info"
 LOGIN_EMAIL = "persont924@outlook.com"
 LOGIN_PASSWORD = "bojack_horseman924"
 
